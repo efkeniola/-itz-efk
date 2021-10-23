@@ -6,7 +6,7 @@ try:
 except IOError:
     os.system("pip2 install requests")
     os.system("pip2 install mechanize")
-    os.system("python2 infect.xo")
+  
 
 try:
     os.mkdir("/sdcard/infect-tool")
@@ -22,7 +22,7 @@ like my page and follow me on Facebook itz efk
 \033[1;93m      
 \033[1;97m       instagram efkhacker follow me
 \033[1;97m call me itz efk
-\033[1;97m-----/()_&$+#@@@@@@!"?";;"(($+$)$+$$+$;-------------------------------------------- 
+\033[1;97m------------------------------------------------ 
 \033[1;97m(~) Author  : Efk eniola
 \033[1;97m(~) Github  : https://github.com/efkeniola/-itz-efk.git
 \033[1;97m(~) Fb Page : https://facebook.com/itzefk.3
